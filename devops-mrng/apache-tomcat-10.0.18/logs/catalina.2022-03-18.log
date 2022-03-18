@@ -1,0 +1,37 @@
+18-Mar-2022 13:04:53.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.18
+18-Mar-2022 13:04:53.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 9 2022 14:30:15 UTC
+18-Mar-2022 13:04:53.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.18.0
+18-Mar-2022 13:04:53.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+18-Mar-2022 13:04:53.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.18.0-305.el8.x86_64
+18-Mar-2022 13:04:53.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Mar-2022 13:04:53.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.322.b06-2.el8_5.x86_64/jre
+18-Mar-2022 13:04:53.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_322-b06
+18-Mar-2022 13:04:53.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+18-Mar-2022 13:04:53.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18
+18-Mar-2022 13:04:53.843 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18
+18-Mar-2022 13:04:53.854 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18/conf/logging.properties
+18-Mar-2022 13:04:53.854 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Mar-2022 13:04:53.854 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Mar-2022 13:04:53.854 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Mar-2022 13:04:53.854 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+18-Mar-2022 13:04:53.854 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+18-Mar-2022 13:04:53.854 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18
+18-Mar-2022 13:04:53.854 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18
+18-Mar-2022 13:04:53.854 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18/temp
+18-Mar-2022 13:04:53.856 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+18-Mar-2022 13:04:54.594 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8081"]
+18-Mar-2022 13:04:54.652 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1172] milliseconds
+18-Mar-2022 13:04:54.739 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Mar-2022 13:04:54.740 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.18]
+18-Mar-2022 13:04:54.756 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18/webapps/ROOT]
+18-Mar-2022 13:04:55.283 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18/webapps/ROOT] has finished in [527] ms
+18-Mar-2022 13:04:55.283 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18/webapps/docs]
+18-Mar-2022 13:04:55.346 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18/webapps/docs] has finished in [63] ms
+18-Mar-2022 13:04:55.346 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18/webapps/examples]
+18-Mar-2022 13:04:56.096 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18/webapps/examples] has finished in [750] ms
+18-Mar-2022 13:04:56.097 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18/webapps/host-manager]
+18-Mar-2022 13:04:56.154 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18/webapps/host-manager] has finished in [57] ms
+18-Mar-2022 13:04:56.154 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18/webapps/manager]
+18-Mar-2022 13:04:56.184 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/ws/devops_mrng_batch/devops-mrng/apache-tomcat-10.0.18/webapps/manager] has finished in [30] ms
+18-Mar-2022 13:04:56.213 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+18-Mar-2022 13:04:56.324 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1672] milliseconds
